@@ -53,7 +53,7 @@ function takeCommand(message){
     }
     else if(message.includes("who are you")){
         speak("i am virtual assistant ,created by Indranil Sir")
-    }    
+    }   
     else if(message.includes("thank you")){
         speak("you are very welcome Sir")
     }  
